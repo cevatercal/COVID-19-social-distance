@@ -1,5 +1,4 @@
-# Project Title
-Maintaining social distance with computer vision
+# Maintaining social distance with computer vision
 
 ## Video Footage
 Middle point of human is green if they are socially distaced else middle point is red
